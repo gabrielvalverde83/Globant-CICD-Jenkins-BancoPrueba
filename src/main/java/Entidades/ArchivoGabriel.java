@@ -1,2 +1,5 @@
-package Entidades;public class ArchivoGabriel {
+package Entidades;
+
+public class ArchivoGabriel {
+
 }

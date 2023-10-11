@@ -13,5 +13,17 @@ class PruebaTest {
         assertTrue(prueba instanceof Prueba );
     }
 
+    @Test
+    public void instanciaTest2() {
+        Prueba prueba = new Prueba();
+        assertTrue(prueba instanceof Prueba );
+    }
+
+    @Test
+    public void instanciaTest3() {
+        Prueba prueba = new Prueba();
+        assertTrue(prueba instanceof Prueba );
+    }
+
 
 }
